@@ -1,0 +1,6 @@
+config {
+  type: "declaration",
+  database: "opentest-reports",  
+  schema: "opentest-reports.base_tables_radix_ot",
+  name: "dp-bq-test",
+}
